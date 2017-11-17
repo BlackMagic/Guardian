@@ -27,4 +27,7 @@ Opening and closing HTML tags must be matching pairs, ie, every opening tag must
 `<i>Jack and Jill went up the hill</i>`will display as <i>Jack and Jill went up the hill</i>. This format is usually used for direct quotations, such as: The President said, "<i>Ask not what your country can do for you...</i>"
 
 #### Using bold and italics
-`<b><i>Jack and Jill went up the hill</i></b>`will display as <b><i.Jack and Jill went up the hill</b></i>.
+`<b><i>Jack and Jill went up the hill</i></b>`will display as <b><i>Jack and Jill went up the hill</b></i>. This format is ideal for setting off a quotation to attract attention to it.
+
+#### Creating external links in your comments
+`<b>Jack and Jill went up the hill</b>`will display as <b>Jack and Jill went up the hill</b>.
