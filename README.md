@@ -19,3 +19,6 @@ Opening and closing HTML tags must be matching pairs, ie, every opening tag must
 
 #### Underlining text
 `<u>Jack and Jill went up the hill</u>`will display as <ins>Jack and Jill went up the hill</ins>. Underlining is discouraged as it may lead to confusion with HTML links.
+
+#### Making text bold
+`<b>Jack and Jill went up the hill</b>`will display as <b>Jack and Jill went up the hill</b>.
