@@ -20,8 +20,11 @@ Opening and closing HTML tags must be matching pairs, ie, every opening tag must
 #### Underlining text
 `<u>Jack and Jill went up the hill</u>`will display as <ins>Jack and Jill went up the hill</ins>. Underlining text is discouraged as it may lead to confusion with HTML links, but it is an acceptable way to draw attention to certain text passages, such as book names or authors.
 
-#### Making text bold
+#### Making text bold for emphasis
 `<b>Jack and Jill went up the hill</b>`will display as <b>Jack and Jill went up the hill</b>. This is an ideal way to make words or passages of text stand out from surrounding material.
 
 #### Setting text in italics
-`<i>Jack and Jill went up the hill</i>`will display as <i>Jack and Jill went up the hill</i>. Usually used for direct quotations, such as: The President said, "<i>Ask not what your country can do for you...</i>"
+`<i>Jack and Jill went up the hill</i>`will display as <i>Jack and Jill went up the hill</i>. This format is usually used for direct quotations, such as: The President said, "<i>Ask not what your country can do for you...</i>"
+
+#### Using bold and italics
+`<b><i>Jack and Jill went up the hill</i></b>`will display as <b><i.Jack and Jill went up the hill</b></i>.
