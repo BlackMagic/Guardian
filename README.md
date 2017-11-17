@@ -11,8 +11,8 @@ HTML tags come in matching pairs: an opening tag and a closing tag. Text of your
 
 This article considers a limited subset of all HTML tags. Why? One reason is that you will only need to use a handful of HTML tags to get superior Guardian comments; the other reason is that the Guardian web browser will ignore HTML tags that might cause unpredictable or unsupported browser results.
 
-Opening HTML tags consist of the character '<', a single-character tag identifier, and the terminating character '>'. Examples are: `<i>, <b>, <a>`, etc. 
+Opening HTML tags consist of the character '<', a single-character tag identifier, and the terminating character '>'. Examples are: `<i>, <b>, <a>,`etc. 
   
-Closing HTML tags consist of the character '<' followed by the character '/', a single-character tag identifier, and the terminating character '>'. Examples are: `</i>, </b>, </a>`, etc. 
+Closing HTML tags consist of the character '<' followed by the character '/', a single-character tag identifier, and the terminating character '>'. Examples are: `</i>, </b>, </a>,`etc. 
 
-Opening and closing tags must be matched pairs, ie, every opening tag must be matched by a closing tag following it somewhere in the user-supplied text. For example: `<i>Hello World!</i>` is a matched pair that the browser will display as <i>Hello World!</i>.
+Opening and closing tags must be matched pairs, ie, every opening tag must be matched by a closing tag following it somewhere in the user-supplied text. For example: `<i>Hello World!</i>`is a matched pair that the browser will display as <i>Hello World!</i>.
