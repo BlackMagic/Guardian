@@ -11,4 +11,4 @@ Let us begin...
 
 HTML tags come in matching pairs: an opening tag and a closing tag. Text of your choosing is inserted between the tags, and will be formatted accordingly by the browser that renders the comment on the Guardian website.  
 
-This article considers a limited subset of all HTML tags. Why? One reason is that you will only need to know a handful of HTML tags to get superior Gaurdian reslts; the other reason is that the Guardian web browser will gnore unsupported HTML tags.
+This article considers a limited subset of all HTML tags. Why? One reason is that you will only need to use a handful of HTML tags to get superior Gaurdian comments; the other reason is that the Guardian web browser will ignore HTML tags that might cause unpredictable or unsupported browser results.
