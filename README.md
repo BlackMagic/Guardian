@@ -18,7 +18,7 @@ Closing HTML tags consist of the character '<' followed by the character '/', a 
 Opening and closing HTML tags must be matching pairs, ie, every opening tag must be matched by a closing tag following it somewhere in the user-supplied text. For example: `<i>Hello World!</i>`is a matching pair that the browser will display as <i>Hello World!</i>.
 
 #### Underlining text
-`<u>Jack and Jill went up the hill</u>`will display as <ins>Jack and Jill went up the hill</ins>. Underlining text is discouraged as it may lead to confusion with HTML links, but it is an acceptable way to draw attention to certain text passages, such as book names or authors.
+`<u>Jack and Jill went up the hill</u>`will display as <ins>Jack and Jill went up the hill</ins>. Underlining text is discouraged as it may lead to confusion with HTML links, but it is an acceptable way to draw attention to certain text passages, such as the names of publications or authors.
 
 #### Making text bold for emphasis
 `<b>Jack and Jill went up the hill</b>`will display as <b>Jack and Jill went up the hill</b>. This is an ideal way to make words or passages of text stand out from surrounding material.
