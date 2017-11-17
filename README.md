@@ -13,6 +13,6 @@ This article considers a limited subset of all HTML tags. Why? One reason is tha
 
 Opening HTML tags consist of the character '<', a single-character tag identifier, and the terminating character '>'. Examoles are: <i>, <b>, <a>, etc. 
   
-Closing HTML tags consist of the character '<' followed by the character '/', a single-character tag identifier, and the terminating character '>'. Examoles are: </i>, </b>, </a>, etc. 
+Closing HTML tags consist of the character '<' followed by the character '/', a single-character tag identifier, and the terminating character '>'. Examples are: </i>, </b>, </a>, etc. 
 
-Opening and closing tags must be matched pairs, ie, every opening tag must be matched by a closing tag somewhere in the user-supplied text. For example: <i>Hello World!</i>is a matched pair that the browser will display as Hello World!.
+Opening and closing tags must be matched pairs, ie, every opening tag must be matched by a closing tag somewhere in the user-supplied text. For example: <i>Hello World!</i> is a matched pair that the browser will display as <i>Hello World!</i>.
