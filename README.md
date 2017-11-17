@@ -1,5 +1,5 @@
 ## Formatting your Guardian comments
-This is a short guide to the art of adding selected HTML tags to your Guardian comments to make them look more professional.
+This is a short guide to the art of adding selected HTML tags to your Guardian comments to make them appear more professional.
 
 HTML tags are used for a variety of functions on a web page. The functions include: making text **bold** so that it stands out from surrounding text, underlining <ins>selected text</ins> for emphasis, putting text *in italics* when quoting a source, and providing external links to an article that you want your comment to reference for additional or supporting information.
 
