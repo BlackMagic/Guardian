@@ -15,4 +15,4 @@ Opening HTML tags consist of the character '<', a single-character tag identifie
   
 Closing HTML tags consist of the character '<' followed by the character '/', a single-character tag identifier, and the terminating character '>'. Examples are: `</i>, </b>, </a>,`etc. 
 
-Opening and closing tags must be matching pairs, ie, every opening tag must be matched by a closing tag following it somewhere in the user-supplied text. For example: `<i>Hello World!</i>`is a matching pair that the browser will display as <i>Hello World!</i>.
+Opening and closing HTML tags must be matching pairs, ie, every opening tag must be matched by a closing tag following it somewhere in the user-supplied text. For example: `<i>Hello World!</i>`is a matching pair that the browser will display as <i>Hello World!</i>.
