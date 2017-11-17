@@ -24,4 +24,4 @@ Opening and closing HTML tags must be matching pairs, ie, every opening tag must
 `<b>Jack and Jill went up the hill</b>`will display as <b>Jack and Jill went up the hill</b>. This is an ideal way to make words or passages of text stand out from surrounding material.
 
 #### Setting text in italics
-`<i>Jack and Jill went up the hill</i>`will display as <i>Jack and Jill went up the hill</i>. Usually used for direct qutations, such as 'The President said, "<i>Ask not what your country can do for you...</i>"
+`<i>Jack and Jill went up the hill</i>`will display as <i>Jack and Jill went up the hill</i>. Usually used for direct quotations, such as: The President said, "<i>Ask not what your country can do for you...</i>"
