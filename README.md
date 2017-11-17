@@ -17,4 +17,5 @@ Closing HTML tags consist of the character '<' followed by the character '/', a 
 
 Opening and closing HTML tags must be matching pairs, ie, every opening tag must be matched by a closing tag following it somewhere in the user-supplied text. For example: `<i>Hello World!</i>`is a matching pair that the browser will display as <i>Hello World!</i>.
 
-###Underlining text
+### Underlining text
+`<ins>Jack and Jill went up the hill<ins>` will display as 
