@@ -32,4 +32,4 @@ Opening and closing HTML tags must be matching pairs, ie, every opening tag must
 #### Creating external links in your comments
 This operation is slightly more complex and involves interaction with the Guardian's link function, which can be found below the dialog box that your comment is entered into.
 
-Assume you want to create a link in your comment to this article: https://en.wikipedia.org/wiki/Ontological_argument, and your comment looks like this: Please refer to <b>St Anselm's ontological argument</b> for further details. The bolded text, when clicked, will link to the Wikipedia article.
+Assume you want to create a link in your comment to this article: https://en.wikipedia.org/wiki/Ontological_argument, and your comment looks like this: Please refer to <b>St Anselm's ontological argument</b> for further details. The bolded text, when clicked, will link to the article.
