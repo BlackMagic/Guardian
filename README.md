@@ -5,7 +5,7 @@ HTML tags are used for a variety of functions on a web page. The functions inclu
 
 Some of this functionality is already available in Guardian-provided functions, but generally the Guardian functions result in lack of control and inferior representation of the intended end-result. This is particularly true when inserting external links into Guardian comments.
 
-Let us begin...
+### Let us begin...
 
 HTML tags come in matching pairs: an opening tag and a closing tag. Text of your choosing is inserted between the tags, and will be formatted accordingly by the browser that renders the comment on the Guardian website.  
 
