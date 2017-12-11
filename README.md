@@ -36,4 +36,4 @@ Assume you want to create a link in your comment to this article: https://en.wik
 
 How do we begin? First locate the article or item you want to link to, in this case the Wikipedia article about the ontological argument. Copy its URL onto the clipboard. This can be done with a mouseclick if you're using a PC or a laptop, and is slightly more complicated when using a smartphone or tablet.
 
-Place the cursor directly in front of the text in your comment that you want to serve as the link, in this case the word <i>St</i>. Now click on the link box below the comment box. A dialogue box opens and the characters <i>http//:www.</i> are highlighted.  
+Place the cursor directly in front of the text in your comment that you want to serve as the link, in this case the word <i>St</i>. Now click on the link box below the comment box. A dialogue box opens and the characters <i>http://www.</i> are highlighted.  
