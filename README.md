@@ -31,9 +31,6 @@ Please note that not all HTML 5 tags consist of single-character tag identifiers
 #### Using bold and italics
 `<b><i>Jack and Jill went up the hill</i></b>`will display as <b><i>Jack and Jill went up the hill</b></i>. This format is ideal for setting off a quotation or a topic to attract maximum attention to it. The order of the closing HTML tags is not important so long as they are evenly matched with the opening tags.
 
-#### Using strikethrough to indicate obsolete text
-`<s>Jack and Jill went up the hill</s>`will display as <s>Jack and Jill went up the hill</s>. This is an accepted way to indicate that words or passages of text are misspelled or are no longer current.
-
 #### Creating external links in your comments
 This operation is slightly more complex and involves interaction with the Guardian's link function, which can be found below the dialog box that your comment is entered into.
 
