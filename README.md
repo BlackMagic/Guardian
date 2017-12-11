@@ -1,7 +1,7 @@
 ## Formatting your Guardian comments
-This is a short guide to the art of adding selected HTML tags to your Guardian comments to make them appear more professional.
+This is a short guide to the art of adding selected HTML 5 tags to your Guardian comments to make them appear more professional. HTML 5 is the current version of the HyperText Markup Language, the prescribed method of laying out web material so that browsers will interpret it properly.
 
-HTML tags are used for a variety of functions on a web page. The functions include: making text **bold** so that it stands out from surrounding text, underlining <ins>selected text</ins> for emphasis, putting text *in italics* when quoting a source, and providing external links to an article that you want your comment to reference for additional or supporting information.
+HTML 5 tags are used for a variety of functions on a web page. The functions include: making text **bold** so that it stands out from surrounding text, underlining <ins>selected text</ins> for emphasis, putting text *in italics* when quoting a source, and providing external links to an article that you want your comment to reference for additional or supporting information.
 
 Some of this functionality is already available in Guardian-provided functions, but generally the Guardian functions result in lack of control and inferior presentation of the intended end-result. This is particularly true when inserting external links into Guardian comments.
 
@@ -30,7 +30,7 @@ Opening and closing HTML tags must be matching pairs, ie, every opening tag must
 `<b><i>Jack and Jill went up the hill</i></b>`will display as <b><i>Jack and Jill went up the hill</b></i>. This format is ideal for setting off a quotation or a topic to attract maximum attention to it. The order of the closing HTML tags is not important so long as they are evenly matched with the opening tags.
 
 #### Using strikethrough to indicate obsolete text
-`<del>Jack and Jill went up the hill</del>`will display as <del>Jack and Jill went up the hill</del>. This is an ideal way to make words or passages of text stand out from the surrounding material.
+`<del>Jack and Jill went up the hill</del>`will display as <del>Jack and Jill went up the hill</del>. This is an accepted way to indicate that words or passages of text are misspelled or are no longer current.
 
 #### Creating external links in your comments
 This operation is slightly more complex and involves interaction with the Guardian's link function, which can be found below the dialog box that your comment is entered into.
