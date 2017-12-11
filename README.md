@@ -38,4 +38,6 @@ How do we begin? First locate the article or item you want to link to, in this c
 
 Place the cursor directly in front of the text in your comment that you want to serve as the link, in this case the word <i>St</i>. Now click on the link box below the comment box. A dialogue box opens and the characters <i>http://www.</i> are highlighted. Replace the highlighted characters with the URL that you copied to the clipboard and press the OK button.
 
-The URL reference now appears in your comment, but it has to be edited before it will do exactly what you want it to do. The full URL will look like this: `<a href="https://en.wikipedia.org/wiki/Ontological_argument"> https://en.wikipedia.org/wiki/Ontological_argument</a>`
+The URL reference now appears in your comment, but it has to be edited before it will do exactly what you want it to do. The full URL will look like this: `<a href="https://en.wikipedia.org/wiki/Ontological_argument"> https://en.wikipedia.org/wiki/Ontological_argument</a>` 
+
+Delete all the characters from the second `https` up to the final `</a>`.
