@@ -44,4 +44,6 @@ The URL reference now appears in your comment, but it has to be edited before it
 
 Delete all the characters from the second<i>`https`</i>up to but not including the final<i>`</a>`.</i> Change the<i>`</a>`</i>to<i>`<b>`</i>and place<i>`</b></a>`</i>after the word <i><b>argument</b></i> in your comment. The words <b>St Anselm's ontological argument</b> are now a live link to the Wikipedia document. 
 
+#### Caution...
+Always use the Guardian's <b>Preview</b> function to display the results of your work before posting the comment to the Guardian's servers. It's better to be safe than embarrassed by a misplaced HTML tag.
 ### Enjoy!
