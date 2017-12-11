@@ -33,3 +33,7 @@ Opening and closing HTML tags must be matching pairs, ie, every opening tag must
 This operation is slightly more complex and involves interaction with the Guardian's link function, which can be found below the dialog box that your comment is entered into.
 
 Assume you want to create a link in your comment to this article: https://en.wikipedia.org/wiki/Ontological_argument, and your comment looks like this: Please refer to <b>St Anselm's ontological argument</b> for further details. The bolded text, when clicked, will link to the article.
+
+How do we begin? First locate the article or item you want to link to, in this case the Wikipedia article about the ontological argument. Copy its URL onto the clipboard. This can be done with a mouseclick if you're using a PC or a laptop, and is slightly more complicated when using a smartphone or tablet.
+
+Place the cursor directly in front of the text in your comment that you want to serve as the link, in this case the word <i>St</i>. Now click on the link box below the comment box. A dialogue box opens and the characters <i>http//:www.</i> are highlighted.  
