@@ -42,6 +42,8 @@ Place the cursor directly in front of the text in your comment that you want to 
 
 The URL reference now appears in your comment, but it has to be edited before it will do exactly what you want it to do. The full URL will look like this: `<a href="https://en.wikipedia.org/wiki/Ontological_argument"> https://en.wikipedia.org/wiki/Ontological_argument</a>` 
 
+Notice that there are two occurrences of`https://en.wikipedia.org/wiki/Ontological_argument`. The first one is the link to the Wikipedia article. The second one is the text that will appear in your comment if you don't make 
+
 Delete all the characters from the second<i>`https`</i>up to but not including the final<i>`</a>`.</i> Change the<i>`</a>`</i>to<i>`<b>`</i>and place<i>`</b></a>`</i>after the word <i><b>argument</b></i> in your comment. The words <b>St Anselm's ontological argument</b> are now a live link to the Wikipedia document. 
 
 #### Caution...
