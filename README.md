@@ -44,7 +44,7 @@ The URL reference now appears in your comment, but it has to be edited before it
 
 Notice that there are two occurrences of`https://en.wikipedia.org/wiki/Ontological_argument.`The first one is the link to the Wikipedia article; leave this unchanged. The second one is the text that will appear in your comment if you don't change it to something more meaningful. Change it as outlined in the paragraph below.   
 
-Delete all the characters from the second<i>`https`</i>up to but not including the final<i>`</a>`.</i> Change the<i>`</a>`</i>to<i>`<b>`</i>and place<i>`</b></a>`</i>after the word <i><b>argument</b></i> in your comment. The words <b>Saint Anselm's ontological argument</b> are now a live link to the Wikipedia document. 
+Delete all the characters from the second<i>`https`</i>up to but not including the final<i>`</a>.`</i> Change the<i>`</a>`</i>to<i>`<b>`</i>and place<i>`</b></a>`</i>after the word <i><b>argument</b></i> in your comment. The words <b>Saint Anselm's ontological argument</b> are now a live link to the Wikipedia document. 
 
 #### Caution...
 Always use the Guardian's <b>Preview</b> function to display the results of your work before posting the comment to the Guardian's servers. It's better to be safe than embarrassed by a misplaced HTML tag.
