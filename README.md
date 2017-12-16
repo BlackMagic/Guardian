@@ -40,9 +40,9 @@ How do we begin? First locate the article or item you want to link to, in this c
 
 Place the cursor directly in front of the text in your comment that you want to serve as the link, in this case the word <i><b>St</b></i>. Now click on the link box below the comment box. A dialogue box opens and the characters <i>http://www.</i> are highlighted. Replace the highlighted characters with the URL that you copied to the clipboard and press the OK button.
 
-The URL reference now appears in your comment, but it has to be edited before it will do exactly what you want it to do. The full URL will look like this: `<a href="https://en.wikipedia.org/wiki/Ontological_argument"> https://en.wikipedia.org/wiki/Ontological_argument</a>` 
+The URL reference now appears in your comment, but it has to be edited before it will do exactly what you want it to do. The full URL will look like this:`<a href="https://en.wikipedia.org/wiki/Ontological_argument"> https://en.wikipedia.org/wiki/Ontological_argument</a>` 
 
-Notice that there are two occurrences of`https://en.wikipedia.org/wiki/Ontological_argument`. The first one is the link to the Wikipedia article. The second one is the text that will appear in your comment if you don't make 
+Notice that there are two occurrences of`https://en.wikipedia.org/wiki/Ontological_argument`. The first one is the link to the Wikipedia article; leave this unchanged. The second one is the text that will appear in your comment if you don't change it to something more meaningful. Change it as outlined in the paragraph below.   
 
 Delete all the characters from the second<i>`https`</i>up to but not including the final<i>`</a>`.</i> Change the<i>`</a>`</i>to<i>`<b>`</i>and place<i>`</b></a>`</i>after the word <i><b>argument</b></i> in your comment. The words <b>St Anselm's ontological argument</b> are now a live link to the Wikipedia document. 
 
