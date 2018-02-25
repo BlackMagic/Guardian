@@ -9,7 +9,7 @@ Some of this functionality is already available in Guardian-provided functions, 
 
 HTML 5 tags come in matching pairs: an opening tag and a closing tag. Text of your choosing is inserted between the tags, and will be formatted accordingly by the browser that renders the comment on the Guardian website.  
 
-This article considers a limited subset of all HTML 5 tags. Why is the subset limited? One reason is that you will only need to use a handful of HTML tags to get superior Guardian comments; the other reason is that the Guardian web browser will ignore HTML 5 tags that might cause unpredictable or unsupported results.
+This article considers a limited subset of all HTML 5 tags. Why is the subset limited? One reason is that you will only need to use a handful of HTML tags to get superior Guardian comments; the other reason is that the Guardian website will ignore HTML 5 tags that might cause unpredictable or unsupported results.
 
 Opening HTML 5 tags consist of the character '<', a single-character tag identifier, and the terminating character '>'. Examples are:`<i>, <b>, <a>,`etc. 
   
